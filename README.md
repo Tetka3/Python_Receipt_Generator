@@ -1,2 +1,2 @@
 # Python_Receipt_Generator
-Code for generating receipts at a supermarket
+This is a simple receipt generator pogram developed in python program intended to showcase my skills in python programing. 
